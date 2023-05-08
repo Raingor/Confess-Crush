@@ -6,8 +6,8 @@ const CONFIG = {
     迷失在我寂寞的心里
     爱字背后是爱`,
     btnIntro: '哈咯哈咯',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    title: '你是否一见倾心？🥰',
+    desc: '是不是看到那个笑容就醉了？',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
