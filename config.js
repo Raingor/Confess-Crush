@@ -1,11 +1,8 @@
 const CONFIG = {
     titleWeb: "老婆叽叽，爱妳",
     introTitle: '婷婷',
-    introDesc: `地球很奇怪
-    为什么我总是走错路？
-    迷失在我寂寞的心里
-    爱字背后是爱`,
-    btnIntro: '哈咯哈咯',
+    introDesc: `愿我会揸火箭，带你到天空去，在太空中两人住~`,
+    btnIntro: 'Ali,Please In~',
     title: '你是否一见倾心？🥰',
     desc: '是不是看到那个笑容就醉了？',
     btnYes: '爱妳~ 😘',
