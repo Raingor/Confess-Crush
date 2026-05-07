@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'CC',
     introDesc: `记录我们一起的点点滴滴`,
     btnIntro: '走进我们的回忆',
-    title: 'CC，你愿意成为我女朋友吗？',
+    title: '我们的故事',
     desc: '遇见你是我这辈子最幸运的事，每天想你是我最喜欢的事情 💕',
     btnYes: '愿意 ❤️',
     btnNo: '考虑一下~',
