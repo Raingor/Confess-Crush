@@ -29,7 +29,6 @@ Follow github.</br>
 
 Truy cập và đường link và ấn follow cho mình nhé: https://github.com/zukahai
 
-
 ### Bước 2: Fork Project
 Để có thể sửa trang web theo ý bạn, bạn cần phải fork project này. </br>
 Tại trang này hãy click vào 2 biểu tượng như hình bên dưới.
@@ -75,7 +74,7 @@ Xem vide hướng dẫn [Tại đây](https://www.youtube.com/watch?v=RvmmB8euJv
 
 <br>
 
-### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn </p>](https://zukahai.github.io/Confess-Crush/)
+### [<p align="center"> Ấn vào đây để xem kết quả tương tự của bạn ](https://zukahai.github.io/Confess-Crush/)
 
 [<p align="center"> <img src="/imagesGithub/demo.png" alt="web" /> </p>](https://zukahai.github.io/Confess-Crush/)
 
