@@ -40,6 +40,12 @@ function firstQuestion() {
         confirmButtonText: CONFIG.btnIntro
     }).then(function() {
         $('.content').show(200);
+        // 用户已交互，可以播放音乐
+        var audio = new Audio('sound/sound.mp3');
+        audio.loop = true;
+        audio.play().catch(function(e) {
+            console.log('Audio play failed:', e);
+        });
     })
 }
 
