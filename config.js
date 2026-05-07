@@ -4,7 +4,7 @@ const CONFIG = {
     introDesc: `记录我们一起的点点滴滴`,
     btnIntro: '走进我们的回忆',
     title: '我们的故事',
-    desc: '遇见你是我这辈子最幸运的事，每天想你是我最喜欢的事情 💕',
+    desc: '一起走过的日子，都是最美的回忆',
     btnYes: '愿意 ❤️',
     btnNo: '考虑一下~',
     question: '你愿意和我在一起吗？',
